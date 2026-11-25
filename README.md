@@ -23,7 +23,10 @@ All versions: [Releases](https://github.com/nnppss/spc-release/releases).
 
 ## The pendrive
 
-Format the pendrive as **exFAT**. It's the only format both Mac and Windows can read and write, so the same books open on either one. Quit the app before you eject the pendrive.
+Format the pendrive as **exFAT**. It's the only format both Mac and Windows can read and write, so the same books open on either one.
+
+- **Working pendrive:** connect it and choose its workspace before signing in. For a new drive, click **Add workspace**, pick the books start date and set a password. Quit the app before you eject it.
+- **Backup pendrive:** in **Settings → Books**, click **Back up to pendrive**, pick a second drive, check the destination and click **Confirm backup**. The copy holds the books, the password and the restore history, and you can work from it directly by choosing it on the workspace screen. If the drive already has `SPC-Data`, the new copy gets a dated folder.
 
 ## Updates
 
