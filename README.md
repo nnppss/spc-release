@@ -4,13 +4,13 @@ Keyboard-first double-entry accounting for Mac and Windows. Your books live on a
 
 This repository holds the installers only.
 
-## Download (version 0.9.0)
+## Download
 
 | | |
 |---|---|
-| **Windows** | [SPC-Accounting-Setup-0.9.0.exe](https://github.com/nnppss/spc-release/releases/download/v0.9.0/SPC-Accounting-Setup-0.9.0.exe) |
-| **Mac — Apple silicon** (M1 and later) | [SPC-Accounting-0.9.0-arm64.dmg](https://github.com/nnppss/spc-release/releases/download/v0.9.0/SPC-Accounting-0.9.0-arm64.dmg) |
-| **Mac — Intel** | [SPC-Accounting-0.9.0.dmg](https://github.com/nnppss/spc-release/releases/download/v0.9.0/SPC-Accounting-0.9.0.dmg) |
+| **Windows** | [SPC-Accounting-Windows-Setup.exe](https://github.com/nnppss/spc-release/releases/latest/download/SPC-Accounting-Windows-Setup.exe) |
+| **Mac — Apple silicon** (M1 and later) | [SPC-Accounting-Mac-arm64.dmg](https://github.com/nnppss/spc-release/releases/latest/download/SPC-Accounting-Mac-arm64.dmg) |
+| **Mac — Intel** | [SPC-Accounting-Mac-x64.dmg](https://github.com/nnppss/spc-release/releases/latest/download/SPC-Accounting-Mac-x64.dmg) |
 
 Not sure which Mac you have? Apple menu → About This Mac: "Chip: Apple M…" is Apple silicon, "Processor: Intel" is Intel.
 
